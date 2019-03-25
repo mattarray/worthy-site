@@ -23,7 +23,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "App Development"
+  "Cloud Solutions",
+  "Enterprise-scale applications",
+  "Accessibility"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -80,4 +82,4 @@ user_groups = []
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+With a combined 45 years of enterprise software development we can provide the solution that is appopriate to your needs. With an emphasis on efficiency and low maintenance software, we can deliver cloud or on-premises applications with high scalability on-demand.
