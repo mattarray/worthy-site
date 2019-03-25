@@ -17,24 +17,18 @@ subtitle = ""
 [[feature]]
   icon = "microsoft"
   icon_pack = "fab"
-  name = "C#"
-  description = "90%"
-
-[[feature]]
-  icon = "microsoft"
-  icon_pack = "fab"
-  name = "C#"
+  name = "C#/Typescript"
   description = "90%"
 
 [[feature]]
   icon = "aws"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "AWS"
   description = "100%"  
   
 [[feature]]
   icon = "angular"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Angular"
   description = "10%"
 
